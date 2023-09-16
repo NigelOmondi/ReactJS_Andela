@@ -1,1 +1,1 @@
-Introduction to React with Peter Kellner on Pluralsight
+Introduction to React v18 with Peter Kellner on Pluralsight

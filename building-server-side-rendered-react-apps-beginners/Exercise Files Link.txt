@@ -1,0 +1,3 @@
+Building Server-side Rendered React Apps for Beginners 
+Exercise files can be found at the link below:
+github.com/pkellner/pluralsight-course-server-side-rendered-react-nextjs
